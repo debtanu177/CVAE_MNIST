@@ -1,7 +1,12 @@
-# Conditional Variational Autoencoder on MNIST dataset
-Conditional VAE using CNN on MNIST in PyTorch
+# Variational Autoencoder & Conditional Variational Autoencoder using MNIST dataset
+Conditional VAE using CNN on MNIST in PyTorch.
 
-#### Run
 ---
-In order to run normal VAE run train_vae.py and for conditional VAE use train_cvae.py. Both of them are implemented using CNN
+
+Inorder to run Variational autoencoder use train_vae.py and for Conditional Variational Autoencoder use train_cvae.py. Both of these 2 implementations uses CNN. For other details such as latent space size, learning rate, CNN layers, batch_size etc. see the code.
+
 ---
+
+### Results
+VAE|CVAE
+---|---
