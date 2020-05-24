@@ -1,1 +1,0 @@
-Contains generated images
