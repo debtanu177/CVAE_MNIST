@@ -10,4 +10,4 @@ Inorder to run Variational autoencoder use train_vae.py and for Conditional Vari
 ### Results
 VAE|CVAE
 ---|---
-<img src="https://github.com/debtanu177/CVAE_MNIST/tree/master/figures/epoch_90.jpg" width="400">|<img src="https://github.com/debtanu177/CVAE_MNIST/tree/master/figures/Eval_epoch_85.jpg" width="400">
+<img src="https://github.com/debtanu177/CVAE_MNIST/blob/master/figures/epoch_90.jpg" width="400">|<img src="https://github.com/debtanu177/CVAE_MNIST/blob/master/figures/Eval_epoch_85.jpg" width="400">
